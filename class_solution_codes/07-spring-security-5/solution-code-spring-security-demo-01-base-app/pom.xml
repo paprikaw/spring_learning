@@ -54,10 +54,10 @@
 	</dependencies>
 
 	<!-- TO DO: Add support for Maven WAR Plugin -->
-
+	<!-- 我们使用java code来配置dispetcher servlet，如果不加这个plugin eclipse会报错：缺少web.xml -->
+	
 	<build>
 		<finalName>spring-security-demo</finalName>
-	
 		<pluginManagement>
 			<plugins>
 				<plugin>

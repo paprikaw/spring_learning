@@ -184,7 +184,7 @@ spring container为每一个reference创建新的实例
 3. 从spring container中retrieve bean
 
 ## 默认的bean ID
-![picture 2](../images/05123c1fce90d097ab3f073a17ddba1315fa06a946e49ce36c0500c734e70ad1.png)
+![picture 2](/images/05123c1fce90d097ab3f073a17ddba1315fa06a946e49ce36c0500c734e70ad1.png)
 
 如果不注明bean的Id的话，就用以上的规则生成默认的bean ID
 
@@ -200,7 +200,7 @@ spring container为每一个reference创建新的实例
 
    步骤：
 
-   ![picture 3](../images/fcc96b5fd322a7c4eb8cec5d4bb22ed4e525dd70af5c69d4aa23b855f49f1503.png)  
+   ![picture 3](/images/fcc96b5fd322a7c4eb8cec5d4bb22ed4e525dd70af5c69d4aa23b855f49f1503.png)  
  
     注意：如果一个object只有一个constructor，那么autowired是可选的。如果有多个constructor，那么必须注释autowired告诉spring哪一个constructor是用来DI的
 
@@ -285,7 +285,7 @@ public class TennisCoach implements Coach {
 
 步骤
 
-![picture 1](../images/3e61ba7edc11396907b7907bb9821aa7c9c83883516f56ade181785ecabe041a.png)  
+![picture 1](/images/3e61ba7edc11396907b7907bb9821aa7c9c83883516f56ade181785ecabe041a.png)  
 
 1. 创建一个java class，注释为configuration, 注释componentScan(扫描项目中有component注释的class)
 

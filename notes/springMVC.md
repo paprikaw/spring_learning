@@ -79,7 +79,7 @@ Spring 配置：
 
 ## MVC应用的开发步骤
 
-![picture 1](../images/4cce9f51f09061ffb80641ca73c3060e0716ce6f6b559be2130ee6e8812706fa.png)  
+![picture 1](/images/4cce9f51f09061ffb80641ca73c3060e0716ce6f6b559be2130ee6e8812706fa.png)  
 
 ## 创建controller class
 

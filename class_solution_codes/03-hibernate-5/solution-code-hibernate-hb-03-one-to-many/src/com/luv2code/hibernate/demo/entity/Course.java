@@ -73,6 +73,4 @@ public class Course {
 	public String toString() {
 		return "Course [id=" + id + ", title=" + title + "]";
 	}
-	
-	
 }

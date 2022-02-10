@@ -23,3 +23,5 @@
 * Servlet掌握
 * Annotation原理
 * reflection原理掌握
+* 创建markdown note snippet
+* 做activity
